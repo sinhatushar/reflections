@@ -14,5 +14,7 @@ Q5: How can you use the commands git log and git diff to view the history of fil
 Ans: Git log gives the history of commits and that serves the purpose.
 
 Q5: How might using version control make you more confident to make changes that could break something?
-Ans: Well I can always come back and make amends. 
+Ans: Well I can always come back and make amends.
+
+//// 
 
