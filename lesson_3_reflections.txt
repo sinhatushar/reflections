@@ -1,2 +1,5 @@
 Q1: When would you want to create remote repository rather than keeong all your work local? 
 Ans: Open source developement.
+
+Q3: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Ans: I would want to have my own version instead of having the github vesrion,
