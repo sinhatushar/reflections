@@ -8,3 +8,6 @@ Q3: Describe the differences between forks, clones, and branches. When would you
 Ans : 1. Forks : Getting a copy of a repository from someone else's github account to one's own github account.
           2. Clones : Getting a copy of a repository from someone else's github account to one's local machine.
           3. Branches : Same as that of diverging paths.
+
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans : I don't understand this as of now.
